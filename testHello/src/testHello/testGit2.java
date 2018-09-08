@@ -6,7 +6,8 @@ public class testGit2 {
 		
 		System.out.println("hello");
 		System.out.println("world");
-		
+		System.out.println("kkk");
+		System.out.println("hello");
 	}
 
 }
